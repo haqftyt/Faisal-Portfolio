@@ -46,7 +46,9 @@ html,body{
 }
 #role{
     color:yellow;
-    width:70%;
+}
+.role{
+    width:500px;
 }
 .image{
     width:500px;
